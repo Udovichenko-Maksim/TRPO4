@@ -3,3 +3,6 @@ def print_meow():
 
 def print_okay():
     print("okay")
+
+def print_hello():
+    print("hello")
